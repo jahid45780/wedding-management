@@ -1,0 +1,87 @@
+[
+    {
+     "id": 1,
+     "logo": "https://i.ibb.co/RDcnQpf/4951751-31048.jpg",
+     "event_title": " Venue Rental ",
+     "title_name": "MD Joni",
+     "image_url": "https://i.ibb.co/58nM97t/istockphoto-1147066751-612x612.jpg",
+     "location": "Dhaka, Bangladesh",
+     "price": "1000k-1590k",
+     "event_description": "Choosing the perfect venue for your event is a critical decision that can greatly  its success. Whether you're planning a wedding, corporate event, birthday party, or any other special occasion, finding the right venue is essential. In this  we will explore the ins and outs of venue rental, providing you with your event is a resounding success  ",
+        "phone": "01750-00 00 00",
+       "email": "info@gmail.com",
+       "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+     
+   },
+   {
+       "id": 2,
+       "logo": "https://i.ibb.co/9V04BF7/04-designhousedecor.jpg",
+       "event_title": "Decoration and Floral Services",
+       "title_name": "MD Rahim",
+       "image_url": "https://i.ibb.co/HdZG9nF/images.jpg",
+       "location": "Dhaka, Bangladesh",
+       "price": "1400k-1950k",
+       "event_description": " When it comes to creating unforgettable events, the right decorations and floral arrangements can make all the difference. Whether you're planning a wedding, corporate gala, birthday celebration, or any special occasion, investing in professional decoration and floral services can transform your venue ",
+         "phone": "01750-00 00 00",
+         "email": "info@gmail.com",
+         "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+       
+     },
+     {
+       "id": 3,
+       "logo": "https://i.ibb.co/Kj60sYs/catering3.jpg",
+       "event_title": "Catering",
+       "title_name": "MD Wahid",
+       "image_url": "https://i.ibb.co/gdZf4YT/360-F-115852367-E6i-IYA8-Ox-HDm-Rhjw7k-Oq4u-Ye4t440f14.jpg",
+       "location": "Dhaka, Bangladesh",
+       "price": "1400k-1550k",
+       "event_description": " Catering is a cornerstone of successful events, whether it's a wedding, corporate gathering, birthday celebration, or any special occasion. The right catering service can transform your event into a culinary masterpiece that leaves a lasting impression on your guests. In this article, we will explore the significance of catering",
+         "phone": "01750-00 00 00",
+         "email": "info@gmail.com",
+         "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+       
+     },
+     {
+       "id": 4,
+       "logo": "https://i.ibb.co/K9z3g8K/female-wedding-planner-working-ceremony.jpg",
+       "event_title": "Event Planning and Coordination",
+       "title_name": "MD Jahid",
+       "image_url": "https://i.ibb.co/3vV0k4m/photo-1610088441520-4352457e7095.jpg",
+       "location": "Dhaka, Bangladesh",
+       "price": "1080k-1850k",
+       "event_description": "Event planning and coordination are essential skills for creating successful and memorable gatherings. Whether it's a wedding, corporate conference, charity gala, or a simple birthday party, meticulous planning and flawless execution are key to ensuring a seamless and enjoyable experience. In this guide",
+         "phone": "01750-00 00 00",
+         "email": "info@gmail.com",
+         "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+       
+     },
+     {
+       "id": 5,
+       "logo": "https://i.ibb.co/gFVqLBM/full-shot-photographer-married-couple.jpg",
+       "event_title": "PhotoGraphy and VideoGraphy",
+       "title_name": "MD Robin",
+       "image_url": "https://i.ibb.co/P1W87YD/360-F-215634201-6-MHT39zdm-Om-Ambb-WLth2z7-KMvpi-Zn-Mak.jpg",
+       "location": "Dhaka, Bangladesh",
+       "price": "1500k-1540k",
+       "event_description": " Photography and videography are powerful visual mediums that allow us to freeze moments in time, tell stories, and relive memories. Whether you're a professional photographer, a passionate hobbyist, or someone looking to hire these services, understanding the fundamentals of photography and videography ",
+         "phone": "01750-00 00 00",
+         "email": "info@gmail.com",
+         "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+       
+     },
+     {
+       "id": 6,
+       "logo": "https://i.ibb.co/5k2P9yF/wedding-bed-beautiful-lamp-marriage.jpg",
+       "event_title": "Accommodation",
+       "title_name": "Mariya Mim",
+       "image_url": "https://i.ibb.co/SQmsQGx/desktop-wallpaper-pin-on-beautiful-indian-girls-female-teenagers-thumbnail.jpg",
+       "location": "Dhaka, Bangladesh", 
+       "price": "1030k-1850k",
+       "event_description": "Accommodation plays a pivotal role in travel and hospitality. Whether you're embarking on a vacation, a business trip, or a weekend getaway, where you choose to stay greatly influences your overall experience. In this article, we will explore the importance of accommodation, highlight different types of accommodations",
+         "phone": "01750-00 00 00",
+         "email": "info@gmail.com",
+         "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+       
+     }
+ 
+ ]
